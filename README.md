@@ -1,4 +1,4 @@
-# gulimail
+# mail
 
 #### Description
 A SpringBoot Project Learning
