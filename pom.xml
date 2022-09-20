@@ -11,11 +11,14 @@
     <packaging>pom</packaging>
     <!--  聚合微服务-->
     <modules>
+        <module>gulimail-common</module>
         <module>gulimail-coupon</module>
         <module>gulimail-ware</module>
         <module>gulimail-product</module>
         <module>gulimail-order</module>
         <module>gulimail-member</module>
+        <module>renren-fast</module>
+        <module>renren-generator</module>
 
     </modules>
 
